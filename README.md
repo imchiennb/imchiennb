@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chien | Nguyễn Bá Chiến</h1>
-<h3 align="center">Work as a programer 🔥</h3>
+<h1 align="center">Hi 👋, I'm Chien</h1>
 
 <p align="left" width="30px"> <img src="https://komarev.com/ghpvc/?username=imchiennb" alt="imchiennb" /> </p>
 
