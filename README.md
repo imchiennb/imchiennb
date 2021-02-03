@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imchiennb.works](https://imchiennb.works)
 
-- 💬 Ask me about **HTML, CSS, JS or something like PHP 🚀**
+- 💬 Ask me about **HTML, CSS, JS or Typescript 🚀**
 
 - 📫 How to reach me **imchiennb@gmail.com**
 
